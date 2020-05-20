@@ -1,0 +1,6 @@
+#phpstorm
+.idea/
+
+#mac
+.DS_Store
+.serverAndClient/server.log
