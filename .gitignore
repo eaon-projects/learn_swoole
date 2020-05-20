@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 #phpstorm
 .idea/
 
 #mac
 .DS_Store
 .serverAndClient/server.log
+=======
+/.idea
+
+#mac
+.DS_Store
+>>>>>>> 02d1190a1c6d4cd175782f6c4e515e5338fefb67
